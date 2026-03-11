@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kevin Alejandro Rodriguez Sanchez</h1>
-<h3 align="center">Partner Solutions Engineer Health Tech AI | Fractional CTO | Biomedical Engineer</h3>
+<h3 align="center">Founder @ digital-health.company | Fractional CTO | Biomedical Engineer & AI Agents Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kevinsanchezr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.digital-health.company/">
+    <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:rodriguezsanchezk077@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -14,43 +17,41 @@
 
 ## 🚀 About Me
 
-I am a **Technical Solutions Leader** and **Biomedical Engineer** with 7+ years of experience integrating healthcare technologies within clinical and operational environments. My expertise lies in bridging the gap between deep technical architecture, AI automation, and real-world clinical workflows.
+I am a **Technical Solutions Leader**, **Biomedical Engineer**, and the **Founder of digital-health.company**. With a strong focus on integrating healthcare technologies into clinical workflows, I specialize in building digital infrastructure, developing intelligent apps, and deploying **AI Agents** to solve complex operational challenges.
 
-- 🏥 **Currently:** Serving as a Fractional CTO for private healthcare practices, leading digital transformation, system architecture, and AI-enabled operational optimization.
-- ⚙️ **Focus:** System interoperability, API-based integrations, structured data flows, and clinical CRM ecosystems.
-- 🌍 **Mobility:** Open to relocation to the **UAE / MENA** region.
-- 🎓 **Education:** Master in Biophysics, Bioinformatics and Neurotechnology (Russia) | Bachelor in Biomedical Engineering (Colombia).
-- 📜 **Certifications:** Medical Software (Yale University), Python for Data Science and AI (IBM).
+- 🏥 **Currently:** Serving as a Fractional CTO, architecting integrated ecosystems (CRMs, operational dashboards) and leading digital transformation for healthcare practices.
+- 🤖 **Focus:** AI-assisted automation, AI Agents, JavaScript/Python full-stack development, and clinical data interoperability.
+- 🧠 **Background:** Extensive experience in medical device integration, real-time EEG signal processing, and biomedical equipment technical support.
+- 🎓 **Education:** Postgraduate Specialization in Digital Health Systems (LETI, Russia) | B.S. in Biomedical Engineering (Universidad ECCI).
+- 📜 **Certifications:** Python for Data Science, AI & Development (IBM) | Biomedical Visualisation (University of Glasgow).
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-Here are the core technologies and tools I use to build robust healthcare digital ecosystems:
-
 <p align="center">
-  <!-- Utilizando Skill Icons para una apariencia limpia y profesional -->
+  <!-- Removed Figma, Added JavaScript, Node, React (common JS stack), kept Python and DBs -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,linux,git,github,docker,aws,figma&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,py,postgres,nodejs,react,linux,git,github,docker,aws&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
-**Domain Expertise:**
-*   `Systems Integration`: REST APIs, authentication flows, data mapping, DevOps pipelines.
-*   `Healthcare Context`: Clinical environments, patient workflow systems, hospital interoperability.
-*   `AI Applications`: Workflow automation, decision logic design, operational optimization tools.
+**Domain Expertise & Tools:**
+*   `Artificial Intelligence`: **AI Agents**, AI-driven automation workflows, predictive models.
+*   `Development`: JavaScript, Python, Object-Oriented Programming (OOP), Full-Stack Development.
+*   `Healthcare Context`: Clinical data interoperability, 3D Modeling/VR in biomedicine, EEG Signal Processing.
 
 ---
 
-## 🔬 Featured Health-Tech & AI Projects
+## 🔬 Featured Projects & Applications
 
-*These repositories showcase my work with Python and data structures applied to healthcare. Click the badges to view the live code environments.*
+*Here are some of the key platforms and systems I have founded and developed:*
 
-| Project Overview | Key Technologies | Live Code / Notebook |
-| :--- | :--- | :--- |
-| **Clinical CRM & Patient Operations Platform** <br> *Designed a CRM-based patient management ecosystem integrating scheduling, communications, and structured decision workflows.* | `Python` `PostgreSQL` `REST APIs` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_ENLACE_A_COLAB]) |
-| **AI-Driven Workflow Automation** <br> *Implemented AI-assisted automations to optimize appointment allocation, communication routing, and prioritization.* | `Python` `AI Logic` `Data Models` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_ENLACE_A_COLAB]) |
-| **Healthcare Digital Ecosystem & Interoperability** <br> *Deployment pipelines and data flow logic to ensure seamless interoperability between mobile apps and backend systems.* | `DevOps` `Architecture` | [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)]([TU_ENLACE_AL_REPO]) |
+| Project / Platform | Description | Key Tech | Links |
+| :--- | :--- | :--- | :--- |
+| **[digital-health.company](https://www.digital-health.company/) App** | **Founder & Creator.** Developed a comprehensive digital health app and CRM ecosystem. Implemented AI-assisted automations to optimize scheduling, communication routing, and workflow prioritization. | `JavaScript` `AI Agents` `System Logic` | [![Website](https://img.shields.io/badge/Visit-Site-blue?style=flat&logo=googlechrome)](https://www.digital-health.company/) |
+| **🧠 VITA System (Neurofeedback Platform)** | Full-stack development of an open-access online platform for cognitive rehabilitation. Features gamified therapeutic activities, real-time EEG signal processing, and AI-driven personalized training protocols. | `JavaScript` `Python` `EEG Processing` | [![View Code](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)]([TU_LINK_AL_REPO]) |
+| **3D Neural Characterization & Reconstruction** | Developed computational algorithms and automated methods to reconstruct 3D neuronal models from 2D microscopy images using advanced morphological analysis and automated segmentation. | `Python` `Image Processing` `Algorithms` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_LINK_A_COLAB]) |
 
 ---
 
