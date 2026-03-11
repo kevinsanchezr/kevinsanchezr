@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Alejandro Rodriguez Sanchez</h1>
+<h1 align="center">Hi 👋, I'm Kevin Rodriguez </h1>
 <h3 align="center">Founder @ digital-health.company | Fractional CTO | Biomedical Engineer & AI Agents Enthusiast</h3>
 
 <p align="center">
