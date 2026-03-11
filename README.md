@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Kevin 👋</h1>
 <h3 align="center">Neuroengineer & HealthTech Builder</h3>
-<p align="center"><i>A Biomedical Engineer fascinated by Neurotechnology and Bioinformatics.</i></p>
 
 <p align="center">
   <a href="https://www.digital-health.company/">
