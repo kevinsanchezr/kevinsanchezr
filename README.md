@@ -48,8 +48,3 @@ I build intelligent digital ecosystems for the healthcare sector. My work bridge
 *   **BSc in Biomedical Engineering** — *Universidad ECCI*
 
 <br>
-
-## 📈 GitHub Activity
-<p align="left">
-  <img src="https://ghchart.rshah.org/111111/kevinsanchezr" alt="Kevin's GitHub Contributions Chart" />
-</p>
