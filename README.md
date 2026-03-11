@@ -36,9 +36,12 @@ I build intelligent digital ecosystems for the healthcare sector. My work bridge
 | Product / Research | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **digital-health.company** | **Ecosystem Architecture.** An integrated CRM and patient platform utilizing AI Agents to automate clinical routing, scheduling, and workflow logic. | `JS` `AI Agents` | [![Visit](https://img.shields.io/badge/Launch-005bb5?style=flat-square)](https://www.digital-health.company/) |
-| **VITA System** | **Neurofeedback Platform.** Open-access web platform for cognitive rehabilitation featuring real-time EEG signal processing and personalized training. | `JS` `Python` `EEG` | [![Repo](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)]([TU_LINK_AL_REPO]) |
-| **3D Neural Reconstruction** | **Computer Vision.** Automated morphological analysis algorithms to reconstruct 3D neuronal models from 2D microscopy images. | `Python` `OpenCV` | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)]([TU_LINK_A_COLAB]) |
-
+| **VITA System** | **Neurofeedback Platform.** Open-access web platform for cognitive rehabilitation featuring real-time EEG signal processing and personalized training. | `JS` `Python` `EEG` | [![Visit](https://img.shields.io/badge/Launch-005bb5?style=flat-square)](https://vitasystem.netlify.app/) |
+| **Brain3D** | **Interactive Visualization.** 3D brain visualization tool built with React and Vite. | `JavaScript` `React` `Vite` | [![Repo](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)](https://github.com/kevinsanchezr/Brain3D) |
+| **Universal Clinic Workflow Orchestrator** | **Operational Reliability Layer.** For clinic AI workflows across legacy and modern EHR systems. | `Python` | [![Repo](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)](https://github.com/kevinsanchezr/universal-clinic-workflow-orchestrator) |
+| **Biomedical Signal Processing** | **Research & Analysis.** Advanced processing of biomedical signals for clinical applications and research using MATLAB. | `MATLAB` `Signal Processing` | *(Add Link if available)* |
+| **Fischer's Iris Dataset Analysis** | **Multidimensional Data.** Calculated fundamental statistics (mean, standard deviation, and correlation) for features[cite: 2]. | `Python` `NumPy` `Matplotlib` `sklearn` | *(Add Link if available)* |
+| **Fisher's Linear Discriminant Function** | **Data Classification.** Classified multidimensional data from the Fischer's Iris dataset by calculating the optimal weight vector[cite: 3]. | `Python` `NumPy` `Matplotlib` `sklearn` | *(Add Link if available)* |
 <br>
 
 ## 🎓 Academic Foundation
