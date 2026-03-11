@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Rodriguez </h1>
-<h3 align="center">Founder @ digital-health.company | Fractional CTO | Biomedical Engineer & AI Agents Enthusiast</h3>
+<h3 align="center">Biomedical Engineer & AI Agents Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kevinsanchezr">
@@ -53,10 +53,4 @@ I am a **Technical Solutions Leader**, **Biomedical Engineer**, and the **Founde
 | **🧠 VITA System (Neurofeedback Platform)** | Full-stack development of an open-access online platform for cognitive rehabilitation. Features gamified therapeutic activities, real-time EEG signal processing, and AI-driven personalized training protocols. | `JavaScript` `Python` `EEG Processing` | [![View Code](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)]([TU_LINK_AL_REPO]) |
 | **3D Neural Characterization & Reconstruction** | Developed computational algorithms and automated methods to reconstruct 3D neuronal models from 2D microscopy images using advanced morphological analysis and automated segmentation. | `Python` `Image Processing` `Algorithms` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_LINK_A_COLAB]) |
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinsanchezr&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Kevin's GitHub Stats" />
-</p>
